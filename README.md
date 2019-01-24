@@ -1,22 +1,20 @@
-[![NPM version](http://img.shields.io/npm/v/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-has-no-idea)
-[![Build Status](http://img.shields.io/travis/okize/hubot-has-no-idea.svg?style=flat)](https://travis-ci.org/okize/hubot-has-no-idea)
-[![Dependency Status](http://img.shields.io/david/okize/hubot-has-no-idea.svg?style=flat)](https://david-dm.org/okize/hubot-has-no-idea)
-[![Downloads](http://img.shields.io/npm/dm/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-has-no-idea)
+[![NPM version](http://img.shields.io/npm/v/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-nocacho)
+[![Downloads](http://img.shields.io/npm/dm/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-nocacho)
 
-# Hubot: Has No Idea
+# Hubot: No Cacho
 
-Hubot script that displays ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) dog images in response to chatroom mistakes
+Un script para Hubot que mientra imágenes tipo ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) en respuesta a errores en el chat
 
-## Installation
+## Instalación
 
-Run the following command to install this module as a Hubot dependency
+Ejecuta el siguiente comando para instalar este comando como una dependencia de Hubot
 
 ```
-$ npm install hubot-has-no-idea --save
+$ npm install hubot-nocacho --save
 ```
 
-Add the **hubot-has-no-idea** to your `external-scripts.json` (you may need to create this file).
+Agrega **hubot-nocacho** a tu archivo `external-scripts.json`
 
 ```
-["hubot-has-no-idea"]
+["hubot-nocacho"]
 ```
