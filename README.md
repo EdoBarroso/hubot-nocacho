@@ -3,7 +3,7 @@
 
 # Hubot: No Cacho
 
-Un script para Hubot que mientra imágenes tipo ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) en respuesta a errores en el chat
+Un script para Hubot que muestra imágenes tipo ["I have no idea what I'm doing"](https://goo.gl/Pf2KPD) en respuesta a errores en el chat
 
 ## Instalación
 
