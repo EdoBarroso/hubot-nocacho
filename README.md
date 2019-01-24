@@ -1,5 +1,5 @@
-[![NPM version](http://img.shields.io/npm/v/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-nocacho)
-[![Downloads](http://img.shields.io/npm/dm/hubot-has-no-idea.svg?style=flat)](https://www.npmjs.org/package/hubot-nocacho)
+[![NPM version](http://img.shields.io/npm/v/hubot-nocacho.svg?style=flat)](https://www.npmjs.org/package/hubot-nocacho)
+[![Downloads](http://img.shields.io/npm/dm/hubot-nocacho.svg?style=flat)](https://www.npmjs.org/package/hubot-nocacho)
 
 # Hubot: No Cacho
 

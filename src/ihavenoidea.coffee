@@ -14,7 +14,7 @@
 #   None
 #
 # Author:
-#   Morgan Wigmanich <okize123@gmail.com> (https://github.com/okize)
+#   Eduardo Barroso <ebarroso@gmail.com> (https://github.com/edobarroso)
 
 module.exports = (robot) ->
   robot.hear regex, (msg) ->
@@ -25,12 +25,12 @@ images = require './data/images.json'
 gaffes = [
   'no tengo (|ni puta )idea',
   '(ni|pico) idea',
-  '^npi$'
+  '\\bnpi\\b',
   '\\b(wh|)oops(|ie)\\b',
   'la cagu(e|é)',
   'd(\')oh',
-  'no cacho',
-  'no s(e|é)'
+  'no cacho\$',
+  'no s(e|é)\$'
 ]
 
 regex = new RegExp gaffes.join('|'), 'ig'
