@@ -1,12 +1,12 @@
 {
-  "name": "hubot-has-no-idea",
-  "version": "1.2.0",
-  "description": "Hubot script that displays `I have no idea what I'm doing` dog images in response to chatroom mistakes",
+  "name": "hubot-nocacho",
+  "version": "1.0.0",
+  "description": "Un hubot script para cuando no sabes algo",
   "main": "index.coffee",
   "author": {
-    "name": "Morgan Wigmanich",
-    "email": "okize123@gmail.com",
-    "url": "https://github.com/okize"
+    "name": "Eduardo Barroso",
+    "email": "ebarroso@gmail.com",
+    "url": "https://github.com/edobarroso"
   },
   "keywords": [
     "hubot",
@@ -19,13 +19,13 @@
     "test": "script/test",
     "start": "coffee ./example/server.coffee"
   },
-  "homepage": "https://github.com/okize/hubot-has-no-idea/",
+  "homepage": "https://github.com/edobarroso/hubot-nocacho/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okize/hubot-has-no-idea.git"
+    "url": "https://github.com/edobarroso/hubot-nocacho.git"
   },
   "bugs": {
-    "url": "https://github.com/okize/hubot-has-no-idea/issues"
+    "url": "https://github.com/edobarroso/hubot-nocacho/issues"
   },
   "dependencies": {
     "coffeescript": "^1.12.7"
