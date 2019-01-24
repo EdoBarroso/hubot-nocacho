@@ -23,11 +23,14 @@ module.exports = (robot) ->
 images = require './data/images.json'
 
 gaffes = [
-  'i ha(ve|s) no idea',
-  'i don\'t know',
+  'no tengo (|ni puta )idea',
+  '(ni|pico) idea',
+  '^npi$'
   '\\b(wh|)oops(|ie)\\b',
-  'my (bad|mistake|fault)',
-  'd(\')oh'
+  'la cagu(e|é)',
+  'd(\')oh',
+  'no cacho',
+  'no s(e|é)'
 ]
 
 regex = new RegExp gaffes.join('|'), 'ig'
